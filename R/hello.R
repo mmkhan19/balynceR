@@ -17,4 +17,5 @@ hello <- function() {
   print("Hello, world!")
   print("first commit")
   print("example")
+  print("hello1")
 }
